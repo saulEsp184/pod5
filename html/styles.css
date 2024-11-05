@@ -1,0 +1,22 @@
+.card-size {
+    width: 25rem;
+    height: 40rem;
+}
+
+.top-buttons {
+    gap: 10px;
+    margin-bottom: 5px;
+    justify-content: center;
+    display: flex;
+}
+.button {
+    border: none;
+    padding: 8px 15px;
+    border-radius: 20px;
+    color: white;
+    background-color: #ff7300;
+    font-size: 0.875rem;
+}
+.head {
+    align-content: center;
+}
